@@ -71,38 +71,17 @@ Focus: Perception, decision-making, and action in autonomous systems.
 Technologies: Computer vision, deep learning, reinforcement learning.
 
 2. Autonomous Obstacle-Avoiding Robot
-
 Feature: Uses sensors like ultrasonic or LIDAR to detect and avoid obstacles.
-
 Real-world use: Delivery bots, cleaning robots, and self-driving vehicles.
 
-
 3. Indoor Delivery Robot using SLAM
-
 Purpose: Autonomously map and navigate indoor spaces.
-
 Key Tech: SLAM, ROS, LIDAR, IMU.
 
-
 4. Data Security in Autonomous Robotics
-
 Importance: Protects sensor data, system control, and user privacy.
-
 Tools: Python cryptography, SROS2 (secure ROS2), encryption, authentication.
 
-
 5. Challenges and Solutions
-
 Includes: Sensor reliability, navigation, obstacle detection, decision-making, and cybersecurity.
-
 Shows how the system handles real-world problems and risks.
-
-
-
-
-
----
-
-These five topics are essential to understand the technical foundation and performance of your autonomous robotics project.
-
-Would you like this list formatted into a presentation or report summary?
